@@ -1,1 +1,1 @@
-worker: python scheduled_bot.py
+web: python keep_alive.py

@@ -9,7 +9,7 @@
    - Name: sportygen-bot
    - Environment: Python 3
    - Build Command: `pip install -r requirements.txt`
-   - Start Command: `python scheduled_bot.py`
+   - Start Command: `python keep_alive.py`
 5. Add Environment Variables (click "Advanced"):
    - `TELEGRAM_BOT_TOKEN` - Your bot token from @BotFather
    - `PLAYO_AUTH_TOKEN` - Your Playo API token

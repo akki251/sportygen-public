@@ -200,8 +200,8 @@ sportygen-automation/
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/akki251/Sportygen_automation.git
-cd Sportygen_automation
+git clone https://github.com/akki251/sportygen-public.git
+cd sportygen-public
 ```
 
 2. **Create virtual environment**
@@ -488,7 +488,7 @@ This project is open source and available under the MIT License.
 ## 🔗 Links
 
 - Bot: [@Sportygen_bot](https://t.me/Sportygen_bot)
-- Repository: [GitHub](https://github.com/akki251/Sportygen_automation)
+- Repository: [GitHub](https://github.com/akki251/sportygen-public)
 
 ## 📞 Support
 
